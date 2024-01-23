@@ -1,0 +1,86 @@
+----------------------------------------------------START OF TICKET----------------------------------------------------
+Reporting Analyst(s): 
+Executive Summary: 
+• Reported Date/Time
+• Incident Threat Title
+• Any actions you take
+o Assigned To
+o Urgency
+o Investigation of Multiple Incidents Created 
+o Disposition
+• OSINT information
+Splunk Short ID: 
+Splunk Incident Link(s):
+-------------------------------------------------------------------------------------------------------------------------------
+Incident Review Information (from ESS Dashboard)
+Risk Object:
+Risk Score:
+Risk Events:
+Type:
+Disposition:
+Security Domain:
+Urgency:
+Status:
+-------------------------------------------------------------------------------------------------------------------------------
+
+Incident Information (after expanding the Incident)
+Description:
+[a] Additional Fields and Field Values
+[b] Event Details
+[c] Information found in the raw data
+[d] Information found in the Notable Response
+[e] Information found in the Risk Analysis Response
+[f] Information found in the logs
+----------------------------------------------------------OSINT INFORMATION-----------------------------------------------------------
+Malicious File(s)
+Malicious File # 1:
+• File Name: 
+• File Hash(es):
+• VirusTotal Link:
+o Risk Score:
+• Other OSINT Resources:
+Malicious File # 2:
+• File Name: 
+• File Hash(es):
+• VirusTotal Link:
+o Risk Score:
+• Other OSINT Resources:
+IP Address(es) Reputation
+IP Address # 1:
+• VirusTotal Link:
+o Risk Score:
+• AbuseIPDB Link:
+o Number of Times reported:
+o Confidence of Abuse:
+• URLScan.io Link:
+o Verdict:
+• Other OSINT Resources:
+IP Address # 2:
+• VirusTotal Link:
+o Risk Score:
+• AbuseIPDB Link:
+o Number of Times reported:
+o Confidence of Abuse:
+• URLScan.io Link:
+o Verdict:
+• Other OSINT Resources:
+Malicious URLs (Defanged)
+Malicious Link # 1:
+• VirusTotal Link:
+o Risk Score:
+• Other OSINT Resources:
+Malicious Link # 2:
+• VirusTotal Link:
+o Risk Score:
+• Other OSINT Resources:
+-------------------------------------------------------------------------------------------------------------------------------
+Additional Information:
+-------------------------------------------------------------------------------------------------------------------------------
+Declaration: 
+-------------------------------------------------------------------------------------------------------------------------------
+Recommendations
+Block IP Address(es): 
+Block URL(s): 
+Block Hash(es):
+Credentials Reset:
+------------------------------------------------------END OF TICKET-----------------------------------------------------
