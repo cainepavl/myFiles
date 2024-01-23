@@ -1,0 +1,72 @@
+----------------------------------------------------START OF TICKET----------------------------------------------------
+Reporting Analyst(s): 
+Executive Summary: 
+QRadar Offense ID Number: 
+-------------------------------------------------------------------------------------------------------------------------------
+QRadar Offense information
+Start Date:
+Duration:
+Description:
+Magnitude: 
+Relevance: 
+Severity: 
+Credibility: 
+Offense Type:
+Event/Flow Count:
+Events: 
+Flows:
+Source IP(s): 
+Destination IP(s):
+	•total count:
+----------------------------------------------------------OSINT INFORMATION-----------------------------------------------------------
+Malicious File(s)
+	Malicious File # 1:
+		• File Name: 
+		• File Hash(es):
+		• VirusTotal Link:
+		o Risk Score:
+		• Other OSINT Resources:
+	Malicious File # 2:
+		• File Name: 
+		• File Hash(es):
+		• VirusTotal Link:
+		o Risk Score:
+		• Other OSINT Resources:
+IP Address(es) Reputation
+	IP Address # 1:
+		• VirusTotal Link:
+		o Risk Score:
+		• AbuseIPDB Link:
+		o Number of Times reported:
+		o Confidence of Abuse:
+		• URLScan.io Link:
+		o Verdict:
+		• Other OSINT Resources:
+	IP Address # 2:
+		• VirusTotal Link:
+		o Risk Score:
+		• AbuseIPDB Link:
+		o Number of Times reported:
+		o Confidence of Abuse:
+		• URLScan.io Link:
+		o Verdict:
+		• Other OSINT Resources:
+Malicious URLs (Defanged)
+	Malicious Link # 1:
+		• VirusTotal Link:
+		o Risk Score:
+		• Other OSINT Resources:
+	Malicious Link # 2:
+		• VirusTotal Link:
+		o Risk Score:
+		• Other OSINT Resources:
+-------------------------------------------------------------------------------------------------------------------------------
+Additional Information:
+-------------------------------------------------------------------------------------------------------------------------------
+Declaration: 
+-------------------------------------------------------------------------------------------------------------------------------
+Recommendations
+Block IP Address(es): 
+Block URL(s): 
+Credentials Reset:
+------------------------------------------------------END OF TICKET-----------------------------------------------------
