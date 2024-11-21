@@ -1,4 +1,4 @@
-# This repo was made before I started coding and just wanted a place to keep files.
+# DISCLAIMER: This repo was made before I started coding and just wanted a place to keep files.
 
 ## These are some of the files that I reference when triaging a SOC alert or conducting OSINT.
 
@@ -18,3 +18,13 @@
   - QRadar
   - Splunk
   - SentinelOne
+
+## Contributing
+
+This repo was just a place to have some of my DFIR files handy and shareable...
+
+## License
+
+## Contact 
+
+For any questions or suggestions, please contact cainepavl@outlook.com
