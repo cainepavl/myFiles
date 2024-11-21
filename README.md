@@ -25,6 +25,8 @@ This repo was just a place to have some of my DFIR files handy and shareable...
 
 ## License
 
+This repository is licensed under the MIT License. See the [LICENSE]() file for more details.
+
 ## Contact 
 
 For any questions or suggestions, please contact cainepavl@outlook.com
